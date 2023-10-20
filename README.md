@@ -6,7 +6,8 @@ WebPage is live on : https://scattershott.github.io/Temperature-Converter/
 Welcome to the **Temperature Converter**! This is a simple web application that helps you convert temperatures from Celsius to Fahrenheit and vice versa with a twist of fun and a dash of humor.
 
 HOMEPAGE!!
-![homepage](https://github.com/scattershott/Temperature-Converter/raw/main/assets/147977105/8430bc22-15d1-4390-b6f2-e89a3e18cd7f)
+(![homepage](https://github.com/scattershott/Temperature-Converter/assets/147977105/0ed92567-4459-46fe-a2fe-aa221e4a0253)
+)
 
 ## 🚀 [Try it out here](https://scattershott.github.io/Temperature-Converter/)
 
@@ -20,7 +21,8 @@ Ever wondered what your perfect temperature should be for the day? Our Temperatu
 ## 📷 Screenshots
 
 [!HOT Converted Temperature]
-(https://github.com/scattershott/Temperature-Converter/assets/147977105/87356bf3-3e80-46d2-b7d3-8b033cb32023)
+(![hot converted temperature](https://github.com/scattershott/Temperature-Converter/assets/147977105/2ecae935-16dd-416e-bcae-a2a542b13acd)
+)
 
 
 ## 🤣 Why Choose Our Converter
