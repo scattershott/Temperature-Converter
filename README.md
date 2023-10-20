@@ -20,9 +20,8 @@ Ever wondered what your perfect temperature should be for the day? Our Temperatu
 
 ## 📷 Screenshots
 
-[!HOT Converted Temperature]
-(![hot converted temperature](https://github.com/scattershott/Temperature-Converter/assets/147977105/2ecae935-16dd-416e-bcae-a2a542b13acd)
-)
+HOT Converted Temperature:
+(![hot converted temperature](https://github.com/scattershott/Temperature-Converter/assets/147977105/2ecae935-16dd-416e-bcae-a2a542b13acd))
 
 
 ## 🤣 Why Choose Our Converter
