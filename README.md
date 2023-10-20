@@ -5,7 +5,7 @@ WebPage is live on : https://scattershott.github.io/Temperature-Converter/
 
 Welcome to the **Temperature Converter**! This is a simple web application that helps you convert temperatures from Celsius to Fahrenheit and vice versa with a twist of fun and a dash of humor.
 
-![Project Screenshot](![homepage](https://github.com/scattershott/Temperature-Converter/assets/147977105/b934fb8b-7dc6-4d56-9db6-759b63d569e6))
+![Project Screenshot](![homepage](https://github.com/scattershott/Temperature-Converter/assets/147977105/b934fb8b-7dc6-4d56-9db6-759b63d569e6)
 
 ## 🚀 [Try it out here](https://scattershott.github.io/Temperature-Converter/)
 
